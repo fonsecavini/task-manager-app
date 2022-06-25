@@ -1,1 +1,3 @@
-console.log('Hello Dev!')
+import { app } from "./app";
+
+app.listen(3000);
